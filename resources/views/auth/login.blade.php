@@ -8,6 +8,6 @@
         {{ session('error') }}
     </div>
     @endif
-    <p class="text-center">Please login via <a href="http://ecommerce.app.test/login" class="text-blue-600 hover:underline">Ecommerce App</a>.</p>
+    <p class="text-center">Please login via <a href="http://ecommerce.app.test" class="text-blue-600 hover:underline">Ecommerce App</a>.</p>
 </div>
 @endsection
